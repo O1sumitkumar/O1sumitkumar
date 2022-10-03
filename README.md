@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @O1sumitkumar
-- 👀 I’m interested in ..ml
-- 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ... python 
+- 👋 Hi, I’m Sumitkumar
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me ...Instagram @01sumitkumar
 
 <!---

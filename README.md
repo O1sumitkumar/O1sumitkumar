@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/o1sumitkumar/blob/output/github-contribution-grid-snake.svg)

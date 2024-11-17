@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Sumit kumar jha
 
 - 👀 I’m passionate about building robust, scalable applications for **web** and **mobile**.
-- 🌱 I’m currently learning cutting-edge technologies like **Swift** and **Kotlin** for mobile app development.
+- 🌱 I’m currently learning cutting-edge technologies like **Kafka**.
 - 💞️ I’m looking to collaborate on exciting projects involving **Full-Stack Development**, **Mobile Apps** (iOS/Android), or **Cloud Integration**.
-- 📫 How to reach me: [sumeetjha.wa@gmail.com] 
+- 📫 How to reach me: [sumeetjha365@gmail.com] 
 
 ### 📱 Mobile:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
